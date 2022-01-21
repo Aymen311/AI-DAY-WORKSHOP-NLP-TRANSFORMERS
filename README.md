@@ -9,18 +9,16 @@ The workshop will be devided into four parts
 2. Sneak peek to the theory behind Transfomers
 3. Quick tour (Huggingface framework)
 4. Lab 
-   * [fine tune a model on text-classification]()  
-   * [train a model from scratch]()
+   * [fine tune a translation model](https://github.com/Aymen311/AI-DAY-WORKSHOP-NLP-TRANSFORMERS/blob/main/Fine%20tune%20a%20translation%20model/AI_DAY_Fine_tune_a_translation_model.ipynb)  
+   
    
 ## Note that you can always open the notebooks on Google Colab ( No need to install anything ) you just need a stable internet connection : 
 
-  <b> - fine tune a model on text-classification </b>  <a  href=""> 
+  <b> - fine tune a translation model </b>  <a  href=""> 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 
 
-<b> - train a model from scratch </b>  <a  href=""> 
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> 
+
 
 
 #### 2. How to get started 
