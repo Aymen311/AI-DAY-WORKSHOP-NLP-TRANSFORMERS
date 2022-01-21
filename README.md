@@ -24,5 +24,5 @@ The workshop will be devided into four parts
 #### 2. How to get started 
 1. Fork this repository
 2. Create a branch by your name
-3. Go through the two notebooks and complete all tasks
+3. Go through the  notebook and complete all tasks
 4. Submit a pull request
