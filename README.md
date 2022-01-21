@@ -3,7 +3,7 @@ In this workshop we will be exploring NLP state of the art transformers, with SO
 
 
 ## Table of Content 
-The workshop will be devided into four parts
+The workshop will be divided into four parts
 
 1. Introduction to Transformers as a HYPE
 2. Sneak peek to the theory behind Transfomers
