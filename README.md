@@ -14,7 +14,7 @@ The workshop will be devided into four parts
    
 ## Note that you can always open the notebooks on Google Colab ( No need to install anything ) you just need a stable internet connection : 
 
-  <b> - fine tune a translation model </b>  <a  href=""> 
+  <b> - fine tune a translation model </b>  <a  href="https://colab.research.google.com/github/Aymen311/AI-DAY-WORKSHOP-NLP-TRANSFORMERS/blob/main/Fine%20tune%20a%20translation%20model/AI_DAY_Fine_tune_a_translation_model.ipynb"> 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> 
 
